@@ -7,7 +7,7 @@ export type MenuProps = {
 
 const Header: FunctionComponent<MenuProps> = (props) => {
     return (
-        <div class="header">
+        <div class="header-container">
             
         </div>
     );
